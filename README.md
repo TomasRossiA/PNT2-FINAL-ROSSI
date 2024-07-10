@@ -20,4 +20,4 @@ Tecnologías Utilizadas 🛠️
 
 Autoría y Agradecimientos 🙌
 
-Este proyecto fue desarrollado por Tomas Rossi como parte del Examen Final de Julio 2024 para el curso de Desarrollo Web Avanzado. Agradezco al profesor por su orientación y apoyo durante el proceso de aprendizaje.
+Este proyecto fue desarrollado por Tomas Rossi como parte del Examen Final de Julio 2024 para el curso de PNT2 en ORT. Agradezco al profesor por su orientación y apoyo durante el proceso de aprendizaje.
